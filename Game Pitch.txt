@@ -1,0 +1,29 @@
+Game Pitch - SpaceWar: The Legend
+Name: Anthony Nadeau
+Game Programming 1 - Section 003
+Date: 24/10/2020
+My idea for a game is a 2D shooter / platformer style game, in which the player controls a space warrior, fighting in a war against aliens.
+
+All ideas listed below are not final and could be subject to change depending on development progress and status.
+
+Story as of the start: 
+Amidst the war, our hero, Bubs, is on an expedition, searching for Human survivors on the battlefield. He tears through house after house but to no avail. No one has survived, or so he thinks! He stumbles upon a house that is still intact, and within the dark dusty remains of the house, he discovers a baby alien. Had it been any other soldier, they would've eliminated the young creature out of hatred for it's species, but Bubs is different. He rescues the baby, and vows to protect it and help it grow into a kind peaceful alien. **10 YEARS LATER** The space military base that houses Bubs, and his new adopted child (now named Leepon) is invaded by the enemy forces, and Leepon is kidnapped. Out of rage, Bubs goes on a Rampage to save the one who he loves like a son, from the cruel hands of the alien military. **GAME BEGINS**
+
+Main Gameplay mechanics: 
+Control Bubs, move freely in each level, and shoot wherever Bubs is facing, have pre-determined enemies spawning in each level, and depending on the type of enemy, have a certain amount of projectiles needed to eliminate them. The player has 5 HP, and loses 1 HP everytime he is hit. The player also begins with 3 lives, and loses a life each time, he runs out of HP. HP can be regained in segments of 1 on a random chance after defeating an enemy. 1 life is gained after every level. The *goal* for number of levels is >= 5, with a decent length for each one. If the player loses a life, they restart the level. If the player loses all of their lives, they restart the game from the 1st level. 
+The win condition for the game is to complete all the levels and save Leepon, the lose condition is to run out of lives.
+
+Character Design:
+All characters should be 2D sprites. 
+Bubs should be an older scruffy looking man, with an angry expression. He could have a mix of gray and black hair, with worn out features from the war.
+Leepon can be a young green or blue creature with a jumpsuit, with features taken from both Bubs' design and that of the alien enemies
+The enemy aliens should resemble Leepon, but older and much angrier, perhaps a darker shade of Green or Blue, or perhaps even red.
+
+Level Progression:
+Levels should become progessively more difficult and complex as the player progresses, to provide a real challenge to the player. The first level should focus on allowing the player to fully grasp the concept of the game as well as the gameplay. The final level should conclude the story and put to use any skills the player has picked up along the way. Power-ups and items that change the game (such as adding abilities) should be included within the levels. 
+
+Inspiration:
+My main and initial source of inspiration for the idea of this game comes from a game called, "Enter the Gungeon" developed by Dodge Roll and published by devolver digital. It is a 2D shooter with a dungeon that acts as each level, and the goal is to clear all the dungeons. Throughout making this pitch, I also drew inspiration from games such as, "Broforce" developed by Free Lives and published by Devolver Digital, and the original "Metroid" which was developed and published by Nintendo. All these games share the shooter aspect, with some action-adventure themes thrown in, and well as some small platforming sections. These all led to my idea for this game.
+
+What skills I am looking for in my teammates:
+Character design is definitely needed for this game to design the enemies, as well as the main characters. Otherwise, The levels are the foundation of the game, so good level design is crucial. Finally, I would like to work with teammates who are good at communicating, so we can work quickly and effectively, helping eachother out whenever help is needed!
